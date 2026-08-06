@@ -197,6 +197,7 @@ Create slicers for:
 - Platform
 - Campaign
 - Content Type
+- InfluencerID
 
 ![Slicers](Images/slicers.png)
 
