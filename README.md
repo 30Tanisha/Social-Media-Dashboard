@@ -1,4 +1,4 @@
-n# 📊 Social Media Performance Dashboard
+📊 Social Media Performance Dashboard
 
 ## 📌 Project Overview
 
